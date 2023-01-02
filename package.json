@@ -12,5 +12,8 @@
     "platzi"
   ],
   "author": "fraySeverusMinor",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
